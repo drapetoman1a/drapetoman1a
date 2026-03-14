@@ -25,4 +25,4 @@
   </a>
 </p>
 
-<img align="center" img src="https://github.com/drapetoman1a/drapetoman1a/blob/69b4e607e395279c42c416324198565962f8a439/HEHEHEHE.png" width="600" height="300" alt="image">
+<img align="center" img src="https://github.com/drapetoman1a/drapetoman1a/blob/e90daef4a98a391c1ec54b3403f9f77544999d86/blewww.webp" width="600" height="300" alt="image">
